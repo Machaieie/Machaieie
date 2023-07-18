@@ -1,4 +1,7 @@
 ###
+![](https://komarev.com/ghpvc/?username=Machaieie&color=006bed)
+
+
 <h3> 👨: &nbsp;About me </h3>
 
 - 🔍 &nbsp; Exploring new technologies and developing software solutions.
