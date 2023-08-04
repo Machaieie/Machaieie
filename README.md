@@ -5,13 +5,20 @@
 <h3> 👨: &nbsp;About me </h3>
 
 - 🔍 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Curse  **Software Developer** on <a href="[link da sua faculdade](https://ustm.ac.mz/index.php/en)">USTM</a>.
+- 🎓 &nbsp; Curse  **Software Developer** on <a href="https://www.ustm.ac.mz/">USTM</a>.
 - 💼 &nbsp; working as **software developer** On   <a href="https://ologa.com">**Ologa**</a>.
 - 🌱 &nbsp;  Always  **learning**.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Machaieie&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Enoque GitHub stats](https://github-readme-stats.vercel.app/api?username=Machaieie&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Machaieie&show_icons=true&theme=neon)](https://github.com/Machaieie/github-readme-stats)
+[![Machaieie GitHub stats](https://github-readme-stats.vercel.app/api?username=Machaieie&show_icons=true&theme=neon)](https://github.com/Machaieie/github-readme-stats)
+
+
+
+
+
+
+
 
 **Applications and Data**
 
