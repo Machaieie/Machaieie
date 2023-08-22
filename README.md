@@ -8,8 +8,9 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Machaieie&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Edwin Machaieie github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Machaieie&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Machaieie&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117&langs_count=8&exclude_repo=github-readme-stats&hide=html,css,scss,c++" />
 </div>
+
 
 
 [![Edwin Machaieie's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Machaieie&bg_color=212121&color=01c7f9&line=eb0046&point=181616&area=true&hide_border=true)]([https://github.com/Machaieie](https://github.com/Machaieie)/github-readme-activity-graph)
