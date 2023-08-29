@@ -62,9 +62,7 @@ I work with a range of frameworks, platforms, and libraries to build robust appl
 
 Feel free to reach out to me. Let's connect and discuss software development, technology, or anything else:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edwin-machaieie)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourtwitterhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00bfbf?style=for-the-badge&logo=portfolio&logoColor=white)](https://www.yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edwin-machaieie-ab5156279/)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
