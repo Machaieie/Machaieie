@@ -64,7 +64,7 @@ Feel free to reach out to me. Let's connect and discuss software development, te
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edwin-machaieie-ab5156279/)
 
-![Snake animation](https://github.com/Machaieie/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Machaieie/Machaieie/blob/output/github-contribution-grid-snake.svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
