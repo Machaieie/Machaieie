@@ -11,7 +11,7 @@
   <img width="48%" height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Machaieie&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117&langs_count=4&exclude_repo=github-readme-stats&hide=html,css,scss,c++,Less" />
 </div>
 
-![Snake animation](https://github.com/Machaieie/Machaieie/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Machaieie/blob/output/github-contribution-grid-snake.svg)
 
 [![Edwin Machaieie's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Machaieie&bg_color=212121&color=01c7f9&line=eb0046&point=181616&area=true&hide_border=true)]([https://github.com/Machaieie](https://github.com/Machaieie)/github-readme-activity-graph)
 
