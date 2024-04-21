@@ -8,7 +8,7 @@
 
 <div align="center">  
   <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Machaieie&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Edwin Machaieie github stats" /> 
-  <img width="48%" height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Machaieie&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117&langs_count=4&exclude_repo=github-readme-stats&hide=html,css,scss,c++,Less" />
+  <img width="48%" height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Machaieie&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117&langs_count=6&exclude_repo=github-readme-stats&hide=html,css,scss,c++,Less" />
 </div>
 
 
