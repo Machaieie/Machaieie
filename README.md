@@ -11,7 +11,9 @@
   <img width="48%" height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Machaieie&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117&langs_count=5&exclude_repo=github-readme-stats&hide=html,cMake,css,scss,c++,Less" />
 </div>
 
-
+<div>
+  <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="300px" align="right" alt="A professional animation coder gif"/>
+</div>
 
 [![Edwin Machaieie's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Machaieie&bg_color=212121&color=01c7f9&line=eb0046&point=181616&area=true&hide_border=true)]([https://github.com/Machaieie](https://github.com/Machaieie)/github-readme-activity-graph)
 
