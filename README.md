@@ -8,7 +8,7 @@
 
 <div align="center">  
   <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Machaieie&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Edwin Machaieie github stats" /> 
-  <img width="48%" height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Machaieie&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117&langs_count=5&exclude_repo=github-readme-stats&hide=html,cMake,css,scss,c++,Less" />
+  <img width="48%" height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Machaieie&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117&langs_count=7&exclude_repo=github-readme-stats&hide=html,cMake,css,scss,c++,Less" />
 </div>
 
 <div>
@@ -16,13 +16,7 @@
 </div>
 
 [![Edwin Machaieie's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Machaieie&bg_color=212121&color=01c7f9&line=eb0046&point=181616&area=true&hide_border=true)]([https://github.com/Machaieie](https://github.com/Machaieie)/github-readme-activity-graph)
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Machaieie&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
