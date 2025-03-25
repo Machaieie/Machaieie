@@ -8,8 +8,9 @@
 
 <div align="center">  
   <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Machaieie&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Edwin Machaieie github stats" /> 
-  <img width="48%" height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Machaieie&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117&langs_count=8&exclude_repo=github-readme-stats&hide=html,cMake,css,scss,c++,Less" />
+  <img width="48%" height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Machaieie&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117&langs_count=5&exclude_repo=github-readme-stats&hide=html,cMake,css,scss,c++,Less" />
 </div>
+
 
 <div>
   <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="300px" align="right" alt="A professional animation coder gif"/>
