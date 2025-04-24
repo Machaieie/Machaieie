@@ -23,6 +23,29 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Machaieie&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p> 
 
+#### 📌 Featured Repositories
+
+<div align="center">
+
+  <a href="https://github.com/Machaieie/System_Restaurant_Good_Fork" style="margin: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Machaieie&repo=System_Restaurant_Good_Fork&theme=radical&bg_color=0d1117&hide_border=true" style="margin: 10px;" />
+  </a>
+
+  <a href="https://github.com/Machaieie/MabukoStore-Web" style="margin: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Machaieie&repo=MabukoStore-Web&theme=radical&bg_color=0d1117&hide_border=true" style="margin: 10px;" />
+  </a>
+
+  <a href="https://github.com/Machaieie/m_pesa_simulation_system" style="margin: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Machaieie&repo=m_pesa_simulation_system&theme=radical&bg_color=0d1117&hide_border=true" style="margin: 10px;" />
+  </a>
+
+  <a href="https://github.com/Machaieie/Spring-Boot-Security" style="margin: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Machaieie&repo=Spring-Boot-Security&theme=radical&bg_color=0d1117&hide_border=true" style="margin: 10px;" />
+  </a>
+
+</div>
+
+
 
 #### 🚀 Languages and Technologies
 
