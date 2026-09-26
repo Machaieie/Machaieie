@@ -1,4 +1,4 @@
-name: Update Profile Statistics
+name: Update Profile Graphics
 
 on:
   schedule:
@@ -9,11 +9,12 @@ permissions:
   contents: write
 
 jobs:
-  generate-profile:
+  generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
 
     steps:
-      - name: Checkout profile repository
+      - name: Checkout
         uses: actions/checkout@v6
 
       - name: Generate GitHub Stats
@@ -32,7 +33,7 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate Restaurant repository card
+      - name: Generate Restaurant Card
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
@@ -40,7 +41,7 @@ jobs:
           path: profile/restaurant.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate Mabuko repository card
+      - name: Generate Mabuko Card
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
@@ -48,7 +49,7 @@ jobs:
           path: profile/mabuko.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate M-Pesa repository card
+      - name: Generate M-Pesa Card
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
@@ -56,7 +57,7 @@ jobs:
           path: profile/mpesa.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate Spring Security repository card
+      - name: Generate Spring Security Card
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
@@ -64,18 +65,26 @@ jobs:
           path: profile/security.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Generate Activity Card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&hide_rank=true&hide_title=true&include_all_commits=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117
+          path: profile/activity.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Generate contribution snake
-        uses: Platane/snk@v3
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             profile/github-snake.svg
             profile/github-snake-dark.svg?palette=github-dark
 
-      - name: Commit generated files
+      - name: Commit generated graphics
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add profile/*.svg
-          git diff --cached --quiet || git commit -m "chore: update GitHub profile statistics"
+          git diff --cached --quiet || git commit -m "chore: update profile graphics"
           git push
